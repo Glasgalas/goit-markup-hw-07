@@ -1,0 +1,36 @@
+.page-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  height: 252px;
+  background-color: $bg-foot-color;
+}
+
+.footer {
+  display: flex;
+  align-items: baseline;
+}
+
+.section-footer {
+  width: calc((100% - 30px) / 2);
+  margin-right: 30px;
+  display: flex;
+  align-items: baseline;
+}
+
+.address {
+  margin-right: 70px;
+}
+
+.footer address {
+  margin-top: 20px;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: $bg-color;
+}
+
+
+
+
+
